@@ -38,6 +38,8 @@ To analyze sales data and uncover insights that help businesses:
 - Download and open the `.pbix` file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - Use the slicers and visuals to explore the dataset and insights interactively
 
+![Snippet of DashBoard](snippet.png)
+
 ## 📎 File
 
 - `sales analysis.pbix` – Power BI project file (attached in this repo)
